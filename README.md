@@ -18,10 +18,10 @@ git help branch
 
 ```shell
 # Nom
-git config --global user.name "sunreiazzy"
+git config --global user.name "user"
 
 # Email
-git config --global user.email "sunreiazzy@gmail.com"
+git config --global user.email "user@gmail.com"
 
 # Outil Editeur
 git config --global core.editor subl
